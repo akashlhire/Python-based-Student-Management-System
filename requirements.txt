@@ -7,5 +7,4 @@ csv
 bs4
 requests
 socket
-PIL
-pillow
+Pillow

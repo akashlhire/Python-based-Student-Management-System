@@ -1,0 +1,11 @@
+tkinter
+matplotlib
+pandas
+numpy
+cx_Oracle
+csv
+bs4
+requests
+socket
+PIL
+pillow
